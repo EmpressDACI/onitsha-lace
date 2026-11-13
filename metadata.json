@@ -1,0 +1,6 @@
+{
+  "name": "Onitsha LacePulse AI",
+  "description": "Wholesale lace retail intelligence, multimodal trend sensing, NPI financial simulation, and virtual Aso-Ebi drape studio for Onitsha Main Market traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
